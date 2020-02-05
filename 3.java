@@ -10,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter the number of lines:");
+        System.out.println("Enter the number of lines here:");
         int n = scanner.nextInt();
         Scanner scanner1 = new Scanner(System.in);
         String[] text = new String[n];
