@@ -12,7 +12,7 @@ public class Main {
     public static void main(String[] args) {
         int k = 2;
         String word = "CHECK";
-        System.out.println("Enter your text");
+        System.out.println("Enter your text here");
         Scanner scanner = new Scanner(System.in);
         String str = scanner.nextLine();
         String[] text = str.split(" ");
